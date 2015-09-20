@@ -59,7 +59,3 @@ Out puts ->
 @a substring can be checked whether it is present in another string
 @range function is used to list numbers within the range
 @zip function can be used to list corresponding data
-
----Chapter 6---
-
-@Functions can be used easily like it is used in C/C++

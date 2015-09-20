@@ -15,7 +15,6 @@ if int(time) % 60 == 0: print "an hour"
 print 2**3
 print pow (2,3)
 print pow (2.,3)
-print pow (2.2,3.3)
 print abs(-10)
 print round(1.0/2.0)
 print round(2.0/3.0)
