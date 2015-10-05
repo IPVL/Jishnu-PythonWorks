@@ -1,0 +1,24 @@
+
+Class      Name ->  Bird
+      SubMethod     Name ->  sing
+
+Class      Name ->  Filter
+      SubMethod     Name ->  filter
+      SubMethod     Name ->  init
+
+Class      Name ->  SPAMFilter
+      SubMethod     Name ->  filter
+      SubMethod     Name ->  init
+
+Function   Name ->  add
+
+Class      Name ->  bangla
+      SubMethod     Name ->  _bangla__inaccessible
+      SubMethod     Name ->  _kemne
+
+Method     Name ->  birdsong
+
+Class      Name ->  person
+      SubMethod     Name ->  getname
+      SubMethod     Name ->  greet
+      SubMethod     Name ->  setname
