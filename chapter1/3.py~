@@ -30,15 +30,12 @@ y = 'world'
 print x+' '+y
 
 #i didn't understand the effect 
-#of using the repr function3
+#of using the repr function
 
 I1 = input     ("Enter a Number: ");
 print I1
 I2 = raw_input ("Enter a Number: ");
 print I2
-
-print I1+25
-#print I2+25
 
 #i also don't understand the difference
 #between input and raw_input
@@ -46,5 +43,5 @@ print I1+25
 #Now I do :D
 
 print 1+2+3\
-	+4+5 		#(Y)3
+	+4+5 		#(Y)
 print "Hello \n world" #(Y)
