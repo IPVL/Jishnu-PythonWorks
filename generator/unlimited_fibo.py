@@ -11,6 +11,6 @@ x = fibo()
 for i in x:
 	print i
 	c+=1
-	if (c>25): break
+	if c>25: break
 
 
